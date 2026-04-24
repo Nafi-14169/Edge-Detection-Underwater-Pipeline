@@ -171,9 +171,3 @@ This project demonstrates how classical edge detection techniques behave under c
 
 ---
 
-## 👤 Author
-
-Nafi
-Student, BRAC University
-
----
